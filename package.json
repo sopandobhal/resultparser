@@ -1,0 +1,22 @@
+{
+  "name": "load-test-resultparser",
+  "version": "0.0.1",
+  "description": "A node.js app to parse load test result",
+  "main": "index.js",
+  "dependencies": {
+    "express": "*",
+    "fs": "*",
+    "xml-parser": "*",
+    "path": "*",
+    "body-parser":"*"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sopandobhal/resultparser.git"
+  },
+  "author": "sdobhal",
+  "license": "ISC"
+}
